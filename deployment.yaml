@@ -17,6 +17,6 @@ spec:
         app: myapp
     spec:
       containers:
-        - name: nginx_test
+        - name: nginx
           image: nginx
       
